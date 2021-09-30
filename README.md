@@ -1,5 +1,7 @@
 # Augmented Reality Game for HoloLens
 
+![example1](./images/logo.png)
+
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#usage)
@@ -19,6 +21,9 @@ HoloToolkit 2017.4.1.0
 Download:  https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/2017.4.1.0  
 
 After configuring the HoloToolkit and copying the .cs scripts and scene to the Unity project, you should be able to install the game on HMD.
+
+![example1](./images/instrukcja1.png)
+![example1](./images/instrukcja2.png)
 
 ## Screenshots
 ![example1](./images/scr1.png)
